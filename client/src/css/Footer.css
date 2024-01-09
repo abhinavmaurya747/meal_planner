@@ -1,0 +1,13 @@
+.footer-container {
+  background-color: #1976d2;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Add any additional CSS styles you want for the footer */

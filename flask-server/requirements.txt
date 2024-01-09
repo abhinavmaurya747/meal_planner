@@ -1,0 +1,7 @@
+Flask[async]
+asyncio
+openai
+gunicorn
+python-dotenv
+flask-cors
+python-dotenv
